@@ -1,0 +1,248 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: grey;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+}
+
+.logo{
+    float: left;
+    color: white;
+}
+
+.btns{
+    width: 520px;
+    height: 60px;
+    float: right;
+}
+
+.btns ul{ 
+    list-style: none;
+}
+
+.btns li{
+    float: left;
+    height: 35px;
+    padding-top: 5px;
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #2b2b2b;
+}
+
+.btns li:hover{
+    background-color: #2b2b2b;
+    color: white;
+    cursor: pointer;
+}
+
+.active{
+    background-color: #2b2b2b !important;
+    color: white !important;
+}
+
+header{
+    width: 100%;
+    height: 600px;
+    padding-left: 10%;
+    padding-top: 150px;
+    padding-right: 10%;
+    background-color: lightgrey;
+}
+
+.col-12{
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+    text-align: center;
+    padding-top: 25px;
+    color: white;
+}
+
+.square{
+   width: 80%;
+   height: 400px;
+   background-color: lightgray;
+   margin: 0 auto;
+   margin-top: 50px;
+   border-radius: 5px;
+}
+
+.text{
+    padding-top: 100px;
+    padding-right: 10%;
+}
+
+.button{
+    cursor: pointer;
+    width: 200px;
+    height: 40px;
+    border: 2px solid #2b2b2b;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 6px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.button:hover{
+    background-color: #2b2b2b;
+    color: white;
+}
+
+.Oheading{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.circle{
+    width: 150px;
+    height: 150px;
+    background-color: lightgray;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 27px;
+    margin-bottom: 10px;
+}
+
+.subT{
+    text-align: center;
+    font-weight: bold;
+}
+
+.subText{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.Cbtn{
+    padding-left: 25%;
+    padding-bottom: 100px;
+}
+
+.Cbutton{
+    cursor: pointer;
+    width: 150px;
+    height: 35px;
+    border: 2px solid #2b2b2b;
+    background-color: #2b2b2b;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 3px;
+}
+
+.Cbutton:hover{
+    background-color: white;
+    color: #2b2b2b;
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: #2b2b2b;
+    color: white;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.col-4{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.p2-block{
+    width: 100%;
+    height: 250px;
+    background-color: lightgray;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.p2T{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.p2-subH{
+    margin-top: 20px;
+}
+
+.p2-Btn1{
+    padding-bottom: 60px;
+}
+
+.p2-btn1{
+    cursor: pointer;
+    width: 150px;
+    height: 35px;
+    border: 2px solid #2b2b2b;
+    background-color: #2b2b2b;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 3px;
+}
+
+.p2-btn1:hover{
+    background-color: white;
+    color: #2b2b2b;
+}
+
+.p2-FH{
+    text-align: center;
+}
+
+.col-6{
+    width: 50%;
+    padding-left: 5%;
+    float: left;
+}
+
+.p2-Fblock{
+    width: 100%;
+    height: 400px;
+    background-color: lightgray;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.mgn{
+    margin-right: 20%;
+}
+
+.p2-btn2{
+    cursor: pointer;
+    width: 200px;
+    height: 40px;
+    border: 2px solid #2b2b2b;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 6px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.p2-btn2:hover{
+    background-color: #2b2b2b;
+    color: white;
+}
+
+.FS{
+    margin-top: 100px;
+}
